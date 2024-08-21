@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gift Shop</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="nextn"><![CDATA[Next >]]></string>
+    <string name="get_start"><![CDATA[Get Start >]]></string>
+    <string name="login">Login</string>
+    <string name="welcomtxt">Hello! welcome back to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="don_t_have_account">Don’t have account?</string>
+    <string name="signup">Signup</string>
+    <string name="loginbtn">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="lets_create_your_accont">Lets create your accont.</string>
+    <string name="user_name">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_you_have_an_account">Already you have an account?</string>
+    <string name="sing_in">Sing In</string>
+    <string name="hello_shashi">Hello! Shashi</string>
+</resources>

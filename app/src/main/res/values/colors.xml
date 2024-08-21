@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#FFFFFFFF</color>
+    <color name="secondary">#000000</color>
+    <color name="tertiary">#EFA8F0</color>
+    <color name="loginbk">#D9EE9C</color>
+    <color name="loginbtn">#5BF085</color>EFA8F0
+    <color name="loginsingup">#FB0A0A</color>
+    <color name="search">#5BF085</color>
+</resources>
